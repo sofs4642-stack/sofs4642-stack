@@ -1,38 +1,22 @@
-# Hi there, I'm Sofiane 👋
-
-Networks & Artificial Intelligence Engineer & Software Developer.  
-Passionate about Linux, Network Architecture, Machine Learning, Automation, and Web Development.
-
----
-
-### 🛠️ Tech Stack
-
-**Networking & Systems**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**AI, Programming & Databases**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Oracle DB](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📊 GitHub Stats
+<h1 align="center">
+  Hi there, I'm Sofiane 👋
+</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sofs4642-stack&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofs4642-stack&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F3FF&center=true&vcenter=true&width=500&lines=Networks+%26+AI+Engineer;Linux+%26+Automation+Enthusiast;Software+Developer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sofs4642-stack&color=00f3ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sofs4642-stack&color=cyan&style=flat-square" alt="Profile Views" />
-</p>
+### 👨‍💻 About Me
+
+```yaml
+Name: Sofiane Ben Tayeb
+Field: Networks & Artificial Intelligence
+OS: Ubuntu Linux / Dual Boot
+Focus: Network Architecture, Automation, Machine Learning & Web Dev
+GitHub: @sofs4642-stack
